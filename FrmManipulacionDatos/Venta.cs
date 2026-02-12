@@ -4,7 +4,21 @@ using System.Text;
 
 namespace FrmManipulacionDatos
 {
-    internal class Venta
+    public  class Venta
     {
+        public int ClienteId { get; set; }
+
+        public string NombreCliente { get; set; }
+
+        public int Edad { get; set; }
+
+        public String saborGalleta { get; set; }
+
+        public int cantidad { get; set; }
+
+        public DateTime FechaCompra { get; set; }
+
+        public int OrdenID { get; set; }
+
     }
 }
