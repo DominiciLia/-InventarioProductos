@@ -1,7 +1,6 @@
 <Solution>
   <Folder Name="/Modelos/" />
   <Folder Name="/Presentacion/">
-    <Project Path="FrmManipulacionDatos/FrmManipulacionDatos.csproj" />
     <Project Path="FrmPrincipal/FrmPrincipal.csproj" />
   </Folder>
 </Solution>

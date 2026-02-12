@@ -135,7 +135,6 @@ C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\bin\Debug\net
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.csproj.AssemblyReference.cache
-C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.Form1.resources
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.csproj.GenerateResource.cache
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.AssemblyInfoInputs.cache
@@ -148,3 +147,5 @@ C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.pdb
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.genruntimeconfig.cache
 C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\ref\FrmPrincipal.dll
+C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.Properties.Resources.resources
+C:\Users\domin\source\repos\Proyecto Conexion BD y EF\FrmPrincipal\obj\Debug\net10.0-windows\FrmPrincipal.FrmVista.resources

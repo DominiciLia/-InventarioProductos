@@ -1139,6 +1139,23 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "FrmPrincipal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "10.0.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "10.0.3"
+        },
+        "compile": {
+          "bin/placeholder/FrmPrincipal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FrmPrincipal.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
       }
     }
   },
@@ -3391,10 +3408,16 @@
         "system.memory.data.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "FrmPrincipal/1.0.0": {
+      "type": "project",
+      "path": "../FrmPrincipal/FrmPrincipal.csproj",
+      "msbuildProject": "../FrmPrincipal/FrmPrincipal.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0-windows7.0": [
+      "FrmPrincipal >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 10.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.3",
@@ -3432,7 +3455,11 @@
       "frameworks": {
         "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\domin\\source\\repos\\Proyecto Conexion BD y EF\\FrmPrincipal\\FrmPrincipal.csproj": {
+              "projectPath": "C:\\Users\\domin\\source\\repos\\Proyecto Conexion BD y EF\\FrmPrincipal\\FrmPrincipal.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
