@@ -9,7 +9,9 @@
       "FrmPrincipal/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "10.0.3",
+          "Microsoft.EntityFrameworkCore.Abstractions": "10.0.3",
           "Microsoft.EntityFrameworkCore.Design": "10.0.3",
+          "Microsoft.EntityFrameworkCore.Relational": "10.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.3"
         },
         "runtime": {

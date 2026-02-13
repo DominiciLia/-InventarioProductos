@@ -80,6 +80,7 @@ namespace FrmPrincipal
             Btn_Eliminar.TabIndex = 4;
             Btn_Eliminar.Text = "Eliminar";
             Btn_Eliminar.UseVisualStyleBackColor = false;
+            Btn_Eliminar.Click += Btn_Eliminar_Click;
             // 
             // Btn_Actualizar
             // 
